@@ -49,27 +49,6 @@ Bcrypt.js (Password hashing)
 
 dotenv (Environment variables)
 
-📂 Project Structure
-doctor-appointment-app/
-│── backend/            # Express & Node.js server
-│   ├── config/         # DB and Cloudinary configs
-│   ├── controllers/    # Business logic
-│   ├── models/         # MongoDB schemas
-│   ├── routes/         # Express routes
-│   ├── middleware/     # Auth middlewares
-│   └── server.js       # Entry point
-│
-│── frontend/           # React app
-│   ├── src/
-│   │   ├── components/ # Reusable components
-│   │   ├── pages/      # Page-level components
-│   │   ├── context/    # Context API (Auth, App state)
-│   │   └── App.js
-│   └── vite.config.js
-│
-│── .env                # Environment variables
-│── package.json
-│── README.md
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
