@@ -73,7 +73,7 @@ doctor-appointment-app/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/doctor-appointment-app.git
+git clone https://github.com/saurav2728k/doctor-appointment-app.git
 cd doctor-appointment-app
 
 2️⃣ Setup Backend
